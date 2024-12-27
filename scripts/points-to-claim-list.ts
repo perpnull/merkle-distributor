@@ -1,7 +1,6 @@
 import { program } from 'commander'
 import fs from 'fs'
-import { parseBalanceMap } from '../src/parse-balance-map'
-import { BigNumber } from 'ethers'
+import path from "path";
 
 type WeeklyPointFormat = {
     account:string,
@@ -10,8 +9,7 @@ type WeeklyPointFormat = {
 }
 
 type ClaimFormat = {
-    account:string,
-    amount: number
+    [account: string]: string;
 }
 
 const TOKEN_AMOUNT: number = 10000000;
@@ -29,27 +27,28 @@ const json = JSON.parse(fs.readFileSync(program.input, { encoding: 'utf8' }))
 
 if (typeof json !== 'object') throw new Error('Invalid JSON')
 
-console.log(JSON.stringify(parseWeeklyPoints(json)))
+const result = parseWeeklyPoints(json);
+
+const outputPath = path.resolve(__dirname, "claim-list.json");
+fs.writeFileSync(outputPath, JSON.stringify(result, null, 2), "utf-8");
+
+console.log(`Results have been written to ${outputPath}`);
 
 
-function parseWeeklyPoints(weeklyPoints: WeeklyPointFormat[]): ClaimFormat[] {
-        console.log(weeklyPoints);
+function parseWeeklyPoints(weeklyPoints: WeeklyPointFormat[]): ClaimFormat {
 
         weeklyPoints = weeklyPoints.filter((p) => Number(p.points) > 0);
         const totalPoints = weeklyPoints.reduce((total, current ) => {
             return total + Number(current.points);
         }, 0);
-        console.log("Total points:", totalPoints);
 
-        const result = weeklyPoints.reduce<ClaimFormat[]>(
+        const result = weeklyPoints.reduce<ClaimFormat>(
             (acc, current) => {
                 const amount = Math.floor(Number(current.points) *  TOKEN_AMOUNT / totalPoints);
-                acc.push({account:current.account, amount});
+                acc[current.account] = amount.toString();
                 return acc;
-            }, []
+            }, {}
         );
 
-        console.log(result);
-
-        return [];
+        return result;
 }

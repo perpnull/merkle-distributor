@@ -21,6 +21,7 @@
     "precompile": "rimraf ./build/",
     "compile": "npx hardhat compile",
     "generate-merkle-root": "ts-node scripts/generate-merkle-root.ts",
+    "generate-claim-list:prod": "ts-node scripts/points-to-claim-list.ts --input scripts/weekly-points.json",
     "generate-merkle-root:example": "ts-node scripts/generate-merkle-root.ts --input scripts/example.json",
     "generate-merkle-root:prod": "ts-node scripts/generate-merkle-root.ts --input scripts/claim-list.json",
     "prepublishOnly": "yarn test",
