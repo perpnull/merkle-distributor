@@ -1,0 +1,87 @@
+[
+    {
+      "account": "0xf9a1bc92e0eeee598b9fdb45397107b1f05f6cc1",
+      "points": "21",
+      "isDoubled": false
+    },
+    {
+      "account": "0x77d2823002cbc9cd42017dabf2037b36a4f476d3",
+      "points": "13",
+      "isDoubled": false
+    },
+    {
+      "account": "0xff263e7ec109c5a46de7e624bd427e631ce8c3a0",
+      "points": "13",
+      "isDoubled": false
+    },
+    {
+      "account": "0xeeb0b1ead396b75c820130dafdee2898be939cf6",
+      "points": "9",
+      "isDoubled": false
+    },
+    {
+      "account": "0xafff75e78d0b2ffdc6288f02cf44ba212b6484b9",
+      "points": "3",
+      "isDoubled": false
+    },
+    {
+      "account": "0x309d984d2651783ba0b2edc01062c34a3ea4d604",
+      "points": "1",
+      "isDoubled": false
+    },
+    {
+      "account": "0x4920b42564e6a3c568b3484fbc4807158c989294",
+      "points": "0",
+      "isDoubled": false
+    },
+    {
+      "account": "0x60db218671960988ece5e7a60d1e7d37aeb968a5",
+      "points": "0",
+      "isDoubled": false
+    },
+    {
+      "account": "0x24b2bb6918a26090678bbfe766afa7e74c71f93a",
+      "points": "0",
+      "isDoubled": false
+    },
+    {
+      "account": "0xc6de3b8e4a9bf4a6756e60f5cb6705cb7d3c1649",
+      "points": "0",
+      "isDoubled": false
+    },
+    {
+      "account": "0x64841bd19591f012d9df0ac9ab93853d58e0897c",
+      "points": "0",
+      "isDoubled": false
+    },
+    {
+      "account": "0x496f9a6b548a46b9035bf91e0be1aa1d03cd1d38",
+      "points": "0",
+      "isDoubled": false
+    },
+    {
+      "account": "0x27655e6ac485234e8b442d66660397fd772c2d41",
+      "points": "0",
+      "isDoubled": false
+    },
+    {
+      "account": "0x0b251787afc9c54c484d88bf910f655fca355de1",
+      "points": "0",
+      "isDoubled": false
+    },
+    {
+      "account": "0x7e3d464e832417796188883b21ffd7e42a053874",
+      "points": "0",
+      "isDoubled": false
+    },
+    {
+      "account": "0xd48806fb9835c635ffdfc8d49df4a7a740972750",
+      "points": "-44",
+      "isDoubled": false
+    },
+    {
+      "account": "0x2b25881f670163866a665acde8ed000bf3a337e3",
+      "points": "-146",
+      "isDoubled": false
+    }
+  ]
