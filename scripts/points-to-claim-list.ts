@@ -1,4 +1,5 @@
 import { program } from 'commander'
+import { BigNumber } from 'ethers';
 import fs from 'fs'
 import path from "path";
 
@@ -12,7 +13,7 @@ type ClaimFormat = {
     [account: string]: string;
 }
 
-const TOKEN_AMOUNT: number = 10000000;
+const TOKEN_AMOUNT: BigNumber = BigNumber.from("10000000000000000000000000");
 
 program
   .version('0.0.0')
@@ -44,7 +45,7 @@ function parseWeeklyPoints(weeklyPoints: WeeklyPointFormat[]): ClaimFormat {
 
         const result = weeklyPoints.reduce<ClaimFormat>(
             (acc, current) => {
-                const amount = Math.floor(Number(current.points) *  TOKEN_AMOUNT / totalPoints);
+                const amount = BigNumber.from(current.points).mul(TOKEN_AMOUNT).div(BigNumber.from(totalPoints));
                 acc[current.account] = amount.toString();
                 return acc;
             }, {}
