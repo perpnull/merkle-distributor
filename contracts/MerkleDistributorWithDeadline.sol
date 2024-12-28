@@ -9,7 +9,7 @@ error EndTimeInPast();
 error ClaimWindowFinished();
 error NoWithdrawDuringClaim();
 
-contract MerkleDistributorWithDeadline is MerkleDistributor, Ownable {
+contract MerkleDistributorWithDeadline is MerkleDistributor {
     using SafeERC20 for IERC20;
 
     uint256 public immutable endTime;
@@ -24,7 +24,7 @@ contract MerkleDistributorWithDeadline is MerkleDistributor, Ownable {
         super.claim(index, account, amount, merkleProof);
     }
 
-    function withdraw() external onlyOwner {
+    function withdraw() external override onlyOwner {
         if (block.timestamp < endTime) revert NoWithdrawDuringClaim();
         IERC20(token).safeTransfer(msg.sender, IERC20(token).balanceOf(address(this)));
     }

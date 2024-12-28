@@ -2,13 +2,14 @@
 pragma solidity =0.8.17;
 
 import {IERC20, SafeERC20} from "@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol";
+import {Ownable} from "@openzeppelin/contracts/access/Ownable.sol";
 import {MerkleProof} from "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol";
 import {IMerkleDistributor} from "./interfaces/IMerkleDistributor.sol";
 
 error AlreadyClaimed();
 error InvalidProof();
 
-contract MerkleDistributor is IMerkleDistributor {
+contract MerkleDistributor is IMerkleDistributor, Ownable {
     using SafeERC20 for IERC20;
 
     address public immutable override token;
@@ -52,5 +53,9 @@ contract MerkleDistributor is IMerkleDistributor {
         IERC20(token).safeTransfer(account, amount);
 
         emit Claimed(index, account, amount);
+    }
+
+    function withdraw() external virtual onlyOwner {
+        IERC20(token).safeTransfer(msg.sender, IERC20(token).balanceOf(address(this)));
     }
 }
