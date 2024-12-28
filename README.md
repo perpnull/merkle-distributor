@@ -18,3 +18,10 @@ The following assumes the use of `node@>=10`.
 ## Run Tests
 
 `yarn test`
+
+
+## Generate Merkleroot and Merkleproof for VeSwap
+
+1. copy weekly points to scripts/weekly-points.json
+2. execute: yarn generate-claim-list:prod
+3. execute: yarn generate-merkle-root:prod
