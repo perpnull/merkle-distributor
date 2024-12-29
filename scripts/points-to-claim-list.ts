@@ -13,8 +13,8 @@ type ClaimFormat = {
     [account: string]: string;
 }
 
-const TOKEN_AMOUNT: BigNumber = BigNumber.from("10000000000000000000000000");
-
+const TOKEN_AMOUNT: BigNumber = BigNumber.from("33042000000000000000000");  // 
+                                                
 program
   .version('0.0.0')
   .requiredOption(

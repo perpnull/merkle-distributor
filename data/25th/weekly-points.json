@@ -1,0 +1,1277 @@
+[
+  {
+    "account": "0xf9a1bc92e0eeee598b9fdb45397107b1f05f6cc1",
+    "points": "15",
+    "isDoubled": false
+  },
+  {
+    "account": "0x77d2823002cbc9cd42017dabf2037b36a4f476d3",
+    "points": "10",
+    "isDoubled": false
+  },
+  {
+    "account": "0xeeb0b1ead396b75c820130dafdee2898be939cf6",
+    "points": "8",
+    "isDoubled": false
+  },
+  {
+    "account": "0xafff75e78d0b2ffdc6288f02cf44ba212b6484b9",
+    "points": "5",
+    "isDoubled": false
+  },
+  {
+    "account": "0x90cd59c1127e03b7632863af30a83052f0ba9b4f",
+    "points": "1",
+    "isDoubled": false
+  },
+  {
+    "account": "0xed896c92b33648cfab10d283ad2c2549458225af",
+    "points": "1",
+    "isDoubled": false
+  },
+  {
+    "account": "0xf3c96f4d3a5bb75ae6f5cf0af00c42427079b0ab",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x309d984d2651783ba0b2edc01062c34a3ea4d604",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x4cdd76e1413c5700667875fc9c8e0a63d5c4ccb9",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x04424dea78bca184624bcdce8eb5d7d4ef26a480",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x2d44adf06e291315cae731b70bdd7fa4c68a3136",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x08c2b17f6c3c52903860899462040ec5df65ece0",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xce737237adef7cb36e1c9dd6aef449420e508661",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x51d6ebe9131880d9bb7a4259f692507d03583a0c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xa884be56e1bb47da6bd8d777519af1f89c566563",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x746242c9e09e4ab11c80b726ae552da899ce01e4",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x27dcb8c5f92f92bd15a213e001a12400f0d49b86",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xb5b263232fdb731b423af964b3ae55f85d820c86",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x6dc8f9a6536f3737e71f7d2b5e196590c77059ed",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xe902c3af896ec7e86dcb66a426f5a3406595467e",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x9286e0a9e1d46b58ae136f3d5538b873cf1fa8d7",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xb48cb1206dc579554fe50279c1c1529828788820",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xbee8bf75016dc7f9cbfaacef7bb610a3014bea1c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xbbb08f7227a537660ee6516e228588e1e32b454c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x700ac4a427db80aec3cf238c3d181b92197be069",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x37534b349c69b23beabca5e441f8569774302bd0",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xdcf848eb82aa227b4e5a907532249d2e7b0d75fc",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xd2ba2ee3cd09ad649db21689bd8be775ef26a348",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xc2c27473bb9b4e496ce0d3352ee8052e7de517a6",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xfe0bcd4c70a397818f70934fdcd0fbc44ea27b98",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xab2041f4675f5acf184b7a7534defc527bddcb29",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x4a7cebe88e1e1653aa2e2b38d6e28b65a5c51b36",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xa62f3b52422ed7bc26fa2791ec37b9cb99d19e31",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x8a9c76d8894e6f772b32e426b78aae6d2f22afe1",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x20abcf5c9297f3aa80f5c9cc0a5fa55c2ac18ec6",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xcb68b877588a92ad7c072f90175a9565e8c3c9ef",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xf0193100487cff8d32eb4f747b2a5c5b079d2cf2",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x22d45dfe0fd28179fe0e4e6086ef768ee7be5028",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xc6de3b8e4a9bf4a6756e60f5cb6705cb7d3c1649",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x64841bd19591f012d9df0ac9ab93853d58e0897c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xfcc079515d6b7383caaedc6563794da28fa190e8",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x778e3987032496d5c1e85408b9cf6503586a6693",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x73936edd18cc2f83b0e7e7d949ab478911ba3f31",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xaa312d8e1cbb22bf2ef075d60363c994a8e58155",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x89d5e9fea5e73097d568fd7a0eab4e396b40ee85",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x66a6ade618bd1c28bc69316448782372d00263db",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xd9a7ac4b23a56a9a038d5d81da2326eabdb1e3a7",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x0e04a263d63297a71f248b8bb605ae361f40833b",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x70190be56645172170fd4b8218c76192702ab47b",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x641c5f7fe9fc8632514211e9b8c8ed8a2ad826c3",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xe3430f2e5b31b784ed303ed3cfa44e5393297fbf",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xea232288e1e822ed5ce1b49c5aa847e06c213128",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xea1eff8cb4878c74f3b5783ec040fe1c46db5421",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x79485b146f689387292380436d2614536176b696",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x2719c04f9d33da1c9ea3a5a1601afeee0e803c2c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xe782263548bdd965c71c171dd7cbbfc4f2a5e9f5",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xe74de579da1e862c63f8d0bfe36b71b58bda21ba",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x467677cdc5a8fa5b9f62b2d01c1b3d5241ffc9e5",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x02ac4a50f561c02dd34d61b5badbb804cbc69f9f",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xbba025eed1b5ee4918b5c4b069a9f49ce6eab8ae",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xd5045f32121542a101d60be5423e95e492359e10",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xc82c13c2c9d2d79c5115ad5f7f55224824278a43",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xfa4a9a59574881a957e77e14ae8aee19fcda2b22",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x2264b7813d85a3b7dab0318c4efb28b4d797f37e",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x7df973cd3f4b6681c2daa851e2822d0eeb4504c0",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x81a91b1039be99c4aede1da6f7101647b502821c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x0ed021a91e4523571171ccbeae54d2fbec20d182",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x22effb8c3becce0be29579ccb5021be2c3a90320",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x631b69df86e3d27ee5937a4ae84b10e643037903",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x7eebfa4409615438a745719387dbb0aa5fad98e0",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x46d00b135035566b86375480bf4d932f6c43cd98",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xb49f5e887ef91038404f9ca73e645f582a8ffeb6",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x4cbd40c2f7c2a3dccedeecc651434972ee87264b",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x228bd3629f7b1eeba9d90107931c4b8d1e582756",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x4ffbb4117a0a617b76c701df2ed147011d657017",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x37650482bb36a14a74dfa3b99beb40a674740f9e",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xb988678ae9ab3924dcf4fdd2e5ddfc15f5dd41f3",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x2561fd1cb538775d336fd47ca5391a5c894a9317",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x730f35d00f48c4c1cbd4b040c4928eae9033446d",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x3530aa3797da6c600253eb3d4c7903dd3318c756",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xd480a75a326c4dd525a36a641f5353cb419162ba",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x6c1ecd3b0d1f78ca99c84ad6d781c38ebc8fde6c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xdf76863e37f63f106999e18c94cfdae1f4ff3d8b",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x3df7fb6ebb96f06b974cc3bcd3ce0a9a1ce917b9",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x9ae06bfbc60cb77ae38e2daaa509e84c26a1234d",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x7c43172e8b7ca00499498dd9bcb4410a928e5ad5",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x4357067f6e65b83850f71837dd46ac405fa10572",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x57cb2758e57b674b063254ae919a53e657ee8646",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x7f750fa1444cccf6e805f4660f4de28a15621b94",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x41a9ed86f90372468b465beaaaeada0b9370aedd",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x8ebe734e52e4f4ee58a9b849d854632790586616",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x718975cb9d7eb7feae32c828bc14e8d9dd2a6bd0",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x6c993288ddcc892dbce72c0d4b195baaac103436",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x4f2c1eda268af0e45b3cc4e3f38c91c893d9f074",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x62cbfe4352a0f3517b012a7a261c677ab0800042",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x8d1b05010e3c29b1f70f07288fdce61e52e8a82a",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x4c12a69735c9d604721f67654ed79d6e40c52e00",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xd191a2943e2a69360ee97065c02221cc3c7cb48f",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x0ce3fcc1a7ff63415f9771ed198d3d5cc0de1c1c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x6218c2f07b5ad061dacbb46b8c9b9796f03a5702",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xb490b4ecd71f4bd6d4833a9889dc8d4a83f8dd71",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x632ae2b9a33dce62622f653c9a2c7392e30d92ad",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x5ad2de42f41c3b5a5354c457a5c099495f20f6b5",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x24fe1602cf1d761187896bea9a8de1d46e3f0cc7",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x023873893aa7f8b452e96645d7fea798626a4339",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xee53b7a30062f96827820f0490fb3363ad73939e",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x2aeeb54525df61fcb112c00b9044a70cd0d82c0e",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x2b2934b1c22701bf10086d7889e47a9e19f78169",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x5476f5f81e1c4fc9a2da620474bb4bff38c592a8",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xf545f3da5cf5caccbce73ec004f384a2aa9f51f7",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x8c29d89e609b9da2bda73ceade065344c90b1df5",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xfc7f42c3f084bda5b15c58e1fc7e5274107c8992",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xe4f597ba15260e1a14a0c4b826216c275f85f2e8",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x0f620757387bc022ec3ba407753f59c9ced2a5bd",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xf5d99c608781998eb233b3aed0e1310ee64d354c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x0920f175e75e70bef0d6518fdf3f340c0b919944",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x52f2bbf451bce28f0aff8b284e9fc6f5b89615c9",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x775b202085eb47af96dcfbb0a243786ac0bce9a5",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xc6288c6b8973c29576cae30939f4be53067bbf18",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x0fd9935a20b359c5e8b8af2ae219c461caf4924f",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x44b90a0a727765a9ef91633bcb2d1b2fd2045b8d",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x9b06cfdd66b13318d119da5dd43abbe2b0408ca3",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x9b9f4eaf33dff635ad7c602ce041017f7b7a92b6",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x450bf10f684609acdcf5b9d9e5fb4246a5eb1b36",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xc9565d8d912db1641f9dbe21c0cb33162e676b09",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xd012ab03f33038b313ce9ce930235315bdf9d093",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xa0b9f1deb1d7cbcf1ece627547abbaca096c1733",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x3ff6b0ac72a2bb52cfa06fe9bb1e7cabbafe38bf",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xbe327064955dc0fc7801bb360a9cb1fd668d0051",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xde235dbb831f96db749d8461a7fbb4254afade51",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x652b9793b8eb12cf2dac997aeaea4b88a8e2022c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x3446727cfb3726ac770baaf69d425b8f9e586dfa",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x39b6d7f6b37f2aeef3cccb6e0188f94d4ae760a7",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x131a87d6500139181117e4bd2ab3f22a584c9439",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x7ba56e16eca5a12b195af806c361f1984a84dfe2",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x69d3e60f17f101cc188b4120a4a64593228b4efa",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xda922f803f8bb9aba11a69b8c67671ea061497fb",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xad4e01f3f64216c9a1bb3206b3583770ca2d25d4",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xdc33d6d161902a18cb5ac895c843bc5067605084",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xf7855503f26e3ec2755c88f953c8a5203c7ec212",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x32f40b4756999729ad69325d02b79a92120adce8",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xdf665951c2ea24c38989fc0113460433017050dc",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x7487c2a053f3bfe4626179b020ccff86ab2b1f5d",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x7514b886183a9ebcb13daf4644fcda53a728dddd",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xfcb181b7193dd42a3db9b314fccbe58fb5c6038a",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x371d2466392858b9c12b267a43bd22224b4d5052",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xe72ee1ae4adafa6a784fe8473bf09eb101cdb165",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x246028082f9304359042e20bdbd3ecf92a4c7c9d",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xa9ddacb6d2117d2aa91b1582dd3a99d36d2de254",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x89b60373604fe9c981d9f88fd9e8d0cf6c786467",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xefe960298892d92c9bc9b4b4e50e6d80d25af9f2",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x5defae6cc21334fcb9eed69ad986aa37e07afe39",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x3b0d6eeaa07e669add3311463517fbc6a7e8fe13",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xaa110e7341a964bae4fd2d2645448dbb1787d779",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x0bd9a90a6ec32efd2a5b0f7b2fb2e91f09fa98d6",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xe1c8e1af09015b07761b21be3bcf204da546b8b4",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xa7bade80d0671a37f87d207d8725fce07bf136cc",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x8a8c3f349d46fc1aeda448b94f4529a73f77569a",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x8d51e88f98d0c59891e411d32e7da8b81308b11c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x6406f1ce7592ca440002d1825dd8daa49a0f5fc9",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xc6f808718deb64ae81edff7551e036a04fcd5dcb",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xcee0e7b0bbd9d0fdebfcfece2287edead3e7f90b",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xe5b714bfb5a3481b24de690103407aba501517fb",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x800d375ffd7340fc4b9396997157edfe9ae898a9",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x9e4d5a90e9e0980f3c9164bdc7429d76f3c6427c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x9f2253ff013edee4839da171ab46b95ed51d9279",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x3012021a1a77e0594f3e34c2ea49b93fa5da6cf9",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x42360e814e277eea582ad263467439fcb8ccc686",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x1d323075098440fb926c945507dfa31073ab47c1",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xd6faba2d92dc51cac14b76ba9db83a762e59add6",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x9a2294945a60d75b61f0d381e13732b2197cc4dc",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x5cf358cd38fab660acfeae0db4372c3d5354fa75",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x4cf28535921748f52ae901de8e49fa5c5d7070bd",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xacf2dfa74e278272c30040f2d126398eeeca4b83",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x8004ebf06d661fd32ed50ac3b0b52cdb47063005",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x30ac46c10da498207f67c90ecfa069220827e7ff",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xc969b5e399dbc60f141f1e02f362a9c3139fd478",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xb1fae252da08e7f362f7096874bb3a69ccb4effe",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x12967f15563366f229dc099be70553aad440dcb2",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x2dbbdef27fbb7fd9477e4924b52932565d3f337c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xcb0167c94f540008eb47c9a3f89d6965c8586b99",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x0fe16bc244b3974388e6156922ec6bb360601f94",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x62c240f156bd65cac5772ec69b242b66b7358954",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xf78266b82212548f2da749f3c3c296faf8cd1645",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x97149622322ae0149e946f037f2421809972b093",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x8166c06878421f56761d0765193025e18dc00a0f",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xfc3e04230db114acba13ed6b3461caeeffb02890",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xa9b1c642d53770e1721e7e48211e22a82b554ca4",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xc3f7763ece9c5a08c48fb866e351a6e3967a25ba",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x109e4aff5eed38a0e55b14bf32dd06de1720d0c2",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x90fe00a63861201949b3166db552f20620ca3304",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x687b8654ff0e62fcc3f514c6fddf91534bd2286b",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x96d10a105b0a0a7d99992cf8f5c7319d2749270a",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x0556a88f000fb7e47d1c0ebb331f851e116b1cb5",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xe04b6d9842065651bb4450f0e2bb9d63db93dd99",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xfbc2e13e2782e5b895b5112bcf999cebaa270f7f",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x84f7737a1c7466c3764d48ef1f21fdc5c755943e",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xcb14b972131635254b1257c348f6a2c0f0e9e738",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x51000cdfb0cb6a04f4ae9f6f178287d6efc0f4f1",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xf25992e214b94dff1b2198c14f2690c48c3bbf84",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x88d93f8020d60207b0323a9098d737391b686db5",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xcf164cae35ade4554cf8127ee965a7354145c264",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x41c6a1753d9afc344e7b36b0103f5d00cfc475ef",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xabbdbc4dd01bf6b2ca59f03381e7530c718bd23a",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xbddc7b3d06e0d95b1e366d1f4587a53e93f7387a",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x991956d946c9ea618871a2d91ade42c0365175dc",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x1d8101a40c95979850a0befe4c6937e754b5a7d0",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x496f9a6b548a46b9035bf91e0be1aa1d03cd1d38",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x27655e6ac485234e8b442d66660397fd772c2d41",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x0b251787afc9c54c484d88bf910f655fca355de1",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x7e3d464e832417796188883b21ffd7e42a053874",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x37e9e7459094858faf8e97b128508127de3be73f",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x8dd4ea75c00a310d2ef26b5365f23c161994d1b5",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xec38f14309989af20642370c69243368463eee82",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x9989d7aa6bfcd0f2978386f3d3ee0bf8504c3c1f",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xb69785abfa761acfdb77a5282d633b8ac114dab9",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x559aa441d04c72c985dc905d3e9817e8df106882",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x92d369d5885b56e8db9bc803dc873de3f0d28558",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x5aa164e67664e7a89e75bbd4e0c40a2871ac08e7",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x1a01386f585aaec3faf0d0be96ed8352a1e11b8a",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x3b6c2bd049468b33479f74ded1de3ef40e53c15b",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x6c2406df265b97451f288e186e2b5ff985dcf204",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x55593064d919c4c44472ca3f54b229644dd2255f",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xd5ec2a9cd51bc464dd07c446d57bb4caffe0ca1d",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x0993eed186ce89512450b3a75076e0175b839f1f",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xb6254aab9f4e75120212ff4dea1512ee41a05d13",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xbb07ebfdc566be070f6cb19cde1289b5108f1fb5",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x5e01bf0a1422871839941252aca292e63e8c0bf7",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x644e19eb99ab04297e2a06ae07d48ff372a30aef",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x002d3e2b8be31eefe2a17aaf10bc065586ee34f2",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xd6efb62d33b473faaec85a828b64327a020f61dc",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x62700d8d4147d8725372ae94b45a668766915ef8",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x5b4136e268d25b15f0fa90b72053a4a4455eaeea",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x3046b839e0f61eaf5904c9a09889437e97babb02",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x30b3480ef5f72b48faa1678473adb9c194f1075b",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x038925e50f2ac576bd0e0f16d5dfd3666f708dba",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xb0788652f7f7282607104944f546d876eb6a6443",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x289489f037d71d6cdf65b0b49f33673bc2593a15",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xd78ec1a57ebd606bc0377a4f18e8bc8c2ca52fa5",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x366a7394cc565f9546e38e5d7a6775990e2c676c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x92613e354642e567f2a7d01c3ee572d55f6139ec",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xd778d5ef254fa4477ff90b3047fad60236ebcdbb",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x7c511e7a77df2a08b1b5079b02eee267d33cbd86",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xb98c5c6efc5ef56dad802543bcf4e2bdaa2110ed",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x752d0fc438d920d28e911b70f5db0a3ee289080c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xd587fdcb52972620d61e02fbdf4c8183ead32659",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xd7ee39da422928c5bb4f8f82f5e9b1632ddf82b1",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xf7d837bfa5e09b0f46910e4088214d012e0749da",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x8513f9d103b08aeb1c22dfbaf85be8ed4350af4c",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0x8f91c99a39723349e68c9e68df857313877f8bf7",
+    "points": "0",
+    "isDoubled": false
+  },
+  {
+    "account": "0xcb2cb555458dfa22a6650dc2a777b12be4b6e4f7",
+    "points": "-1",
+    "isDoubled": false
+  },
+  {
+    "account": "0xff263e7ec109c5a46de7e624bd427e631ce8c3a0",
+    "points": "-2",
+    "isDoubled": false
+  },
+  {
+    "account": "0x2b25881f670163866a665acde8ed000bf3a337e3",
+    "points": "-3",
+    "isDoubled": false
+  },
+  {
+    "account": "0xa3449a5b7252f040be7d2eb07618d0ce597fbfee",
+    "points": "-8",
+    "isDoubled": false
+  },
+  {
+    "account": "0xd48806fb9835c635ffdfc8d49df4a7a740972750",
+    "points": "-52",
+    "isDoubled": false
+  }
+]
